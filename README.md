@@ -22,7 +22,9 @@
 ---
 ### 💻 Tecnologías y Herramientas
 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![CrystalDiskInfo](https://img.shields.io/badge/CrystalDiskInfo-Diagnóstico_HDD%2FSSD-00599C?style=for-the-badge)
 ![CrystalDiskMark](https://img.shields.io/badge/CrystalDiskMark-Rendimiento_&_Benchmarking-FF4500?style=for-the-badge)
+![FurMark](https://img.shields.io/badge/FurMark-Estrés_&_Temperaturas_GPU-E25822?style=for-the-badge)
